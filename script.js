@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Fucking YouTuber", "Fucking Developer", "Fucking Blogger", "Designer", "Freelancer"],
+        strings: [" YouTuber", " Developer", " Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["fucking YouTuber", "fucking Developer", "fucking Blogger", "fucking Designer", "fucking Freelancer"],
+        strings: [" YouTuber", " Developer", " Blogger", " Designer", " Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
