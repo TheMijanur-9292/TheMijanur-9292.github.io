@@ -42,8 +42,13 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
+<<<<<<< HEAD
+        strings: ["Developer", "YouTuber", "Photographer", "Designer", "Freelancer"],
+        typeSpeed: 95,
+=======
         strings: ["Developer", "YouTuber", "Photographer", "Designer", "Freelancer"],
         typeSpeed: 90,
+>>>>>>> 3e2c0792ffb741a76e6eedc7091e948c9a05a28f
         backSpeed: 60,
         loop: true
     });
