@@ -19,11 +19,11 @@ html{
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background: #888;
+    background: rgb(223, 215, 215);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: rgb(243, 238, 238);
 }
 
 /* all similar content styling codes */
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: rgb(22, 4, 7);
+    color: rgb(236, 226, 228);
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "Who i Am";
 }
 .about .about-content .left{
     width: 45%;
@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "What I Provide";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "What I Know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "Who With Me";
 }
 .teams .carousel .card{
     background: #222;
@@ -443,7 +443,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "Get In Touch";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
