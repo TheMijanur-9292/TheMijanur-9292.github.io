@@ -243,7 +243,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: rgb(10, 5, 5);
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -281,7 +281,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    background: rgb(83, 15, 243);
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -391,7 +391,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: rgb(51, 13, 218);
 }
 .teams .carousel .card .box{
     display: flex;
