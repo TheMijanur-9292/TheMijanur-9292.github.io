@@ -193,7 +193,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: rgb(62, 29, 223);
+    color: rgb(233, 21, 145);
     font-weight: 500;
 }
 .home .home-content a{
@@ -209,7 +209,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: rgb(77, 20, 220);
+    color: rgb(236, 22, 40);
     background: none;
 }
 
