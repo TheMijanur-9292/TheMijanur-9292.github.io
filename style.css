@@ -198,14 +198,14 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(86, 12, 233);
+    background: rgb(18, 230, 46);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid rgb(20, 23, 220);
+    border: 2px solid rgb(236, 17, 46);
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
