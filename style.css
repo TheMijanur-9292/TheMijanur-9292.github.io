@@ -198,7 +198,7 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(18, 230, 46);
+    background: rgb(230, 18, 64);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
