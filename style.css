@@ -497,7 +497,7 @@ section .title::after{
 .contact .right form .textarea textarea{
     height: 100%;
     width: 100%;
-    border: 1px solid rgb(222, 186, 186);
+    border: 1px solid lightgrey;
     border-radius: 6px;
     outline: none;
     padding: 0 15px;
@@ -540,7 +540,7 @@ section .title::after{
 footer{
     background: #111;
     padding: 15px 23px;
-    color: rgb(202, 228, 226);
+    color: #fff;
     text-align: center;
 }
 footer span a{
