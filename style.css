@@ -257,7 +257,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+                           /* services section styling */
 .services, .teams{
     color:#fff;
     background: #111;
@@ -303,7 +303,7 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
-/* skills section styling */
+                 /* skills section styling */
 
 .skills .title::after{
     content: "What I Know";
@@ -363,22 +363,22 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 50%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 69%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
 }
 
-/* teams section styling */
+                       /* teams section styling */
 .teams .title::after{
     content: "Who With Me";
 }
@@ -430,7 +430,7 @@ section .title::after{
     outline: none!important;
     border-radius: 50%;
     border: 2px solid crimson!important;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 .owl-dot.active{
     width: 35px;
@@ -536,7 +536,7 @@ section .title::after{
   color: crimson;
   background: none;
 }
-/* footer section styling */
+                              /* footer section styling */
 footer{
     background: #111;
     padding: 15px 23px;
@@ -552,7 +552,7 @@ footer span a:hover{
 }
 
 
-/* responsive media query start */
+                             /* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
